@@ -12,4 +12,3 @@ Este repositorio incluye las actividades del modulo DAW del CFGS de Desarrollo d
 |   |  |
 | ------------- | ------------- |
 | Ejercicio 1  | Descripción |
-| ... | ...  |
